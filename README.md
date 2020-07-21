@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# WEB503-Apoorv
 
-You can use the [editor on GitHub](https://github.com/sapoorv70/web503Apoorv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Class Timing 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Day      | Time        | Room |
+| -------- | ----------- | ---- |
+| Tuesday  | 11am-1pm    | A214 |
+| Thursday | 9am-11:30am | A214 |
+|          |             |      |
 
-### Markdown
+## Assessment Details 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Assessment type                               | Weighting |
+| --------------------------------------------- | --------- |
+| Journals & practical Labs                     | 25%       |
+| A students portfolio web app (Static web app) | 25%       |
+| A business web app  (dynamic web app)         | 50%       |
 
-```markdown
-Syntax highlighted code block
+## Important And Due Dates
 
-# Header 1
-## Header 2
-### Header 3
+| Assessments   | Handout Due | Due Date               |
+| ------------- | ----------- | ---------------------- |
+| Assessment  1 | week 1      | 30 Oct 2020            |
+| Assessment 2  | week 5      | 21 Sept or week 5      |
+| Assessment 3  | week 9      | 16 November or week 15 |
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sapoorv70/web503Apoorv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
